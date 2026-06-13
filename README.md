@@ -28,12 +28,15 @@ The dataset contains information about Titanic passengers, including:
 
 ## Key Findings
 
-* Overall survival rate was approximately 38%.
-* Female passengers had a significantly higher survival rate than male passengers.
-* First-class passengers had the highest survival rate.
-* Third-class passengers had the lowest survival rate.
-* Age showed a weaker relationship with survival compared to gender and passenger class.
+Key Findings
 
+• Overall survival rate: 38.4%
+• Female survival rate: 74.2%
+• Male survival rate: 18.9%
+• First-class survival rate: 63.0%
+• Second-class survival rate: 47.3%
+• Third-class survival rate: 24.2%
+• Age showed a weaker relationship with survival than gender and passenger class.
 ## Tools Used
 
 * Python
